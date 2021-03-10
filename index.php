@@ -21,7 +21,7 @@
                 <a class="nav-link active" aria-current="page" href="file:///C:/xampp/htdocs/myweb/index.php">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="file:///C:/xampp/htdocs/logindiv/index.php">Login</a>
+                <a class="nav-link" href="file:///C:/xampp/htdocs/myweb/login.php">Login</a>
               </li>
             </ul>
             <form class="d-flex">
